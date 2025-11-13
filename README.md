@@ -31,19 +31,10 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrakantvijaybirhade&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakantvijaybirhade&theme=dark" />
-</p>
-
----
-
 ### 📫 Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/chandrakant-birhade/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chandrakant-birhade-504275387/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chandu.birhade@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
