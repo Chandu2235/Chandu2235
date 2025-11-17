@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/TestNG-FE7A16?style=for-the-badge&logo=testng&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebDriverIO-EA3556?style=for-the-badge&logo=webdriverio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-2EAD33?style=for-the-badge&logo=Cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
