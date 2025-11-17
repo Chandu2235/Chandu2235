@@ -1,39 +1,51 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Vijay Birhade</h1>
-<h3 align="center">A passionate QA Automation Engineer & Tech Enthusiast from Pune,Maharashtra, India</h3>
+<h3 align="center">A passionate QA Engineer & Tech Enthusiast from Pune, Maharashtra, India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on Javascript(Node.js)| Typescript | Java | Selenium | API | WebDriver IO | Playwright | Maven | JMeter | GCP/AZURE/AWS | Manual and Automation Testing | Prompt Engineering | Using AI as Assistant Tool | GitHub Actions | Jenkins | Docker
+---
 
-- 🌱 I’m currently learning **Playwright,Cypress,AI-assisted Testing(GenAI + AgenticAI,AI Agents) & CI/CD pipelines**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Open-source QA Projects and Automation Tools**
+- 🔭 I’m currently working with **JavaScript (Node.js), TypeScript, Java, Selenium, API Testing, WebDriverIO, Playwright, Maven, JMeter, Cloud Platforms (GCP / Azure / AWS), Manual & Automation Testing, Prompt Engineering, GitHub Actions, Jenkins, and Docker**.
 
-- 📫 How to reach me: **chandu.birhade@gmail.com**
+- 🌱 I’m actively learning **Playwright, Cypress, AI-assisted Testing (GenAI + Agentic AI, AI Agents), and CI/CD pipelines**.
 
-- ⚡ Fun fact: I enjoy reverse-engineering websites for learning!
+- 👯 I’m looking to collaborate on **open-source QA automation projects and testing tools**.
+
+- 📫 Reach me at: **chandu.birhade@gmail.com**
+
+- ⚡ Fun fact: **I love reverse-engineering websites to understand how things work!**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-%23005087.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-%23FF6F61.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebDriverIO-%23E10098.svg?style=for-the-badge&logo=webdriverio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript(Node.js)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FE7A16?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebDriverIO-EA3556?style=for-the-badge&logo=webdriverio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/chandrakant-birhade-504275387/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chandu.birhade@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chandrakant-birhade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
+  <a href="mailto:chandu.birhade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
