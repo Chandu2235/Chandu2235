@@ -3,13 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **Advanced Selenium-Maven-Jenkins Frameworks**
+- 🔭 I’m currently working on Javascript(Node.js)| Typescript | Java | Selenium | API | WebDriver IO | Playwright | Maven | JMeter | GCP/AZURE/AWS | Manual and Automation Testing | Prompt Engineering | Using AI as Assistant Tool | GitHub Actions | Jenkins | Docker
 
 - 🌱 I’m currently learning **Playwright,Cypress,AI-assisted Testing(GenAI + AgenticAI,AI Agents) & CI/CD pipelines**
 
 - 👯 I’m looking to collaborate on **Open-source QA Projects and Automation Tools**
-
-- 💬 Ask me about ** Java | Selenium | API | WebDriver IO | Playwright | JMeter | GCP/AZURE/AWS | Manual and Automation Testing | Prompt Engineering | Using AI as Assistant Tool | GitHub Actions | Jenkins | Docker **
 
 - 📫 How to reach me: **chandu.birhade@gmail.com**
 
