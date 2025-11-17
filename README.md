@@ -7,15 +7,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working with **JavaScript (Node.js), TypeScript, Java, Selenium, API Testing, WebDriverIO, Playwright, Maven, JMeter, Cloud Platforms (GCP / Azure / AWS), Manual & Automation Testing, Prompt Engineering, GitHub Actions, Jenkins, and Docker**.
+🔭 I’m currently working with **JavaScript (Node.js), TypeScript, Java, Selenium, API Testing, WebDriverIO, Playwright, Maven, JMeter, Cloud Platforms (GCP / Azure / AWS), Manual & Automation Testing, Prompt Engineering, GitHub Actions, Jenkins, and Docker**.
 
-- 🌱 I’m actively learning **Playwright, Cypress, AI-assisted Testing (GenAI + Agentic AI, AI Agents), and CI/CD pipelines**.
+🌱 I’m actively learning **Playwright, Cypress, AI-assisted Testing (GenAI + Agentic AI, AI Agents), and CI/CD pipelines**.
 
-- 👯 I’m looking to collaborate on **open-source QA automation projects and testing tools**.
+👯 I’m looking to collaborate on **open-source QA automation projects and testing tools**.
 
-- 📫 Reach me at: **chandu.birhade@gmail.com**
+📫 Reach me at: **chandu.birhade@gmail.com**
 
-- ⚡ Fun fact: **I love reverse-engineering websites to understand how things work!**
+⚡ Fun fact: **I love reverse-engineering websites to understand how things work!**
 
 ---
 
