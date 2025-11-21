@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-🔭 I’m currently working with **JavaScript (Node.js), TypeScript, Java, Selenium, API Testing, WebDriverIO, Playwright, Maven, JMeter, Cloud Platforms (GCP / Azure / AWS), Manual & Automation Testing, Prompt Engineering, GitHub Actions, Jenkins, and Docker**.
+🔭 I’m currently working with **JavaScript (Node.js), TypeScript, Java, Selenium, API Testing, WebDriverIO, Playwright, Maven, JMeter, Cloud Platforms (GCP / Azure / AWS), Manual & Automation Testing, Prompt Engineering, GitHub/GitHub Actions, Jenkins, and Docker**.
 
 🌱 I’m actively learning **Playwright, Cypress, AI-assisted Testing (GenAI + Agentic AI, AI Agents), and CI/CD pipelines**.
 
