@@ -15,7 +15,7 @@
 
 📫 Reach me at: **chandu.birhade@gmail.com**
 
-⚡ Fun fact: **I love reverse-engineering websites to understand how things work!**
+⚡ **I love reverse-engineering websites to understand how things work!**
 
 ---
 
