@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Chandrakant Vijay Birhade 👋</h1> <h3 align="center">QA Automation Engineer & Technology Enthusiast | Pune, Maharashtra, India</h3> <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 👨‍💻 About Me
 
 I am a QA Automation Engineer with experience in designing scalable automation frameworks and delivering efficient testing solutions across web and API applications.
