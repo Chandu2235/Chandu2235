@@ -1,52 +1,25 @@
-## Hi, I’m Chandrakant Vijay Birhade
+# 💫 About Me:
+Hi, I’m Chandrakant Vijay Birhade<br>Senior QA Automation Engineer | Quality Engineering & Test Strategy<br>📍 Pune, Maharashtra, India<br><br>I help engineering teams ship reliable software faster by designing scalable test automation frameworks, strengthening API and integration testing, and embedding quality deeply into CI/CD pipelines.<br><br>I bring hands-on experience across web and API testing, combined with strong fundamentals in test strategy, risk-based testing, and automation maintainability. My work focuses on reducing release risk, shortening regression cycles, and improving overall delivery confidence—not just writing automated tests.<br><br>What I Work On<br>Designing UI and API automation frameworks that scale with product growth<br>Improving release velocity through CI/CD-integrated testing<br>Driving quality ownership across agile teams<br>Applying AI-assisted testing approaches to reduce repetitive effort and speed up feedback loops<br>How I Add Value<br>Automation that replaces manual bottlenecks without creating maintenance overhead<br>Test strategies aligned with business-critical user flows<br>Clear, actionable test reporting that supports release decisions<br>Close collaboration with developers and DevOps to shift quality left
 
-**Senior QA Automation Engineer | Quality Engineering & Test Strategy**  
-📍 Pune, Maharashtra, India
+<br>Technical Focus<br>Languages: JavaScript (Node.js), TypeScript, Java<br>UI Automation: Selenium, WebDriverIO, Playwright, Cypress<br>API Testing: REST Assured, Postman, Swagger<br>Testing & Build Tools: JMeter, TestNG, Maven<br>CI/CD & DevOps: Jenkins, GitHub Actions, Docker<br>Cloud Platforms: AWS, Azure, GCP
 
-I help engineering teams ship reliable software faster by designing scalable test automation frameworks, strengthening API and integration testing, and embedding quality deeply into CI/CD pipelines.
+<br>Current Interests<br>Modern quality engineering practices, API-first testing, Playwright-based automation, AI-driven test generation, and CI/CD optimization.<br>
+<br>Collaboration and Open to:<br><br>Senior QA / SDET roles<br>Automation-focused consulting engagements<br>Open-source QA automation contributions<br>📫 Contact: chandu.birhade@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/chandrakant-birhade/
 
-I bring hands-on experience across web and API testing, combined with strong fundamentals in test strategy, risk-based testing, and automation maintainability. My work focuses on reducing release risk, shortening regression cycles, and improving overall delivery confidence—not just writing automated tests.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrakant-birhade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandu.birhade@gmail.com) 
 
-### What I Work On
-- Designing UI and API automation frameworks that scale with product growth  
-- Improving release velocity through CI/CD-integrated testing  
-- Driving quality ownership across agile teams  
-- Applying AI-assisted testing approaches to reduce repetitive effort and speed up feedback loops  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chandu2235&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chandu2235&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu2235&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### How I Add Value
-- Automation that replaces manual bottlenecks without creating maintenance overhead  
-- Test strategies aligned with business-critical user flows  
-- Clear, actionable test reporting that supports release decisions  
-- Close collaboration with developers and DevOps to shift quality left  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chandu2235&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### Technical Focus
-- **Languages:** JavaScript (Node.js), TypeScript, Java  
-- **UI Automation:** Selenium, WebDriverIO, Playwright, Cypress  
-- **API Testing:** REST Assured, Postman, Swagger  
-- **Testing & Build Tools:** JMeter, TestNG, Maven  
-- **CI/CD & DevOps:** Jenkins, GitHub Actions, Docker  
-- **Cloud Platforms:** AWS, Azure, GCP  
-
----
-
-### Current Interests
-Modern quality engineering practices, API-first testing, Playwright-based automation, AI-driven test generation, and CI/CD optimization.
-
----
-
-### Collaboration
-Open to:
-- Senior QA / SDET roles  
-- Automation-focused consulting engagements  
-- Open-source QA automation contributions  
-
----
-
-📫 **Contact:** chandu.birhade@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/chandrakant-birhade/
+[![](https://visitcount.itsvg.in/api?id=Chandu2235&icon=0&color=0)](https://visitcount.itsvg.in)
