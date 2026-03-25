@@ -1,11 +1,21 @@
 # 💫 About Me:
-Hi, I’m Chandrakant Vijay Birhade<br>Senior QA Automation Engineer | Quality Engineering & Test Strategy<br>📍 Pune, Maharashtra, India<br><br>I help engineering teams ship reliable software faster by designing scalable test automation frameworks, strengthening API and integration testing, and embedding quality deeply into CI/CD pipelines.<br><br>I bring hands-on experience across web and API testing, combined with strong fundamentals in test strategy, risk-based testing, and automation maintainability. My work focuses on reducing release risk, shortening regression cycles, and improving overall delivery confidence—not just writing automated tests.<br><br>What I Work On<br>Designing UI and API automation frameworks that scale with product growth<br>Improving release velocity through CI/CD-integrated testing<br>Driving quality ownership across agile teams<br>Applying AI-assisted testing approaches to reduce repetitive effort and speed up feedback loops<br>How I Add Value<br>Automation that replaces manual bottlenecks without creating maintenance overhead<br>Test strategies aligned with business-critical user flows<br>Clear, actionable test reporting that supports release decisions<br>Close collaboration with developers and DevOps to shift quality left
+Hi, I’m Chandrakant Vijay Birhade<br>Senior QA Automation Engineer | Quality Engineering & Test Strategy<br>📍 Pune, Maharashtra, India<br><br>
+
+QA Automation Engineer | Selenium | Playwright | Java | CI/CD
+
+Results-driven QA Automation Engineer with strong expertise in designing, developing, and maintaining scalable automation frameworks using Java. Proficient in Selenium WebDriver and Playwright for building robust, reusable test scripts and ensuring high-quality software delivery.
+
+Experienced in collaborating with cross-functional teams to understand requirements, execute automated and manual test cases, and integrate testing into CI/CD pipelines using tools like Jenkins and GitHub Actions. Skilled in cross-browser and cross-platform testing, defect tracking, and improving test coverage, reliability, and execution speed.
+
+Hands-on experience with TestNG/JUnit, BDD frameworks like Cucumber, and REST API testing using Postman and RestAssured. Strong understanding of version control systems (Git) with excellent debugging and analytical abilities.
+
+Additionally familiar with performance testing tools such as JMeter, containerization using Docker, Agile/Scrum methodologies, and cloud-based testing platforms like BrowserStack and Sauce Labs
 
 <br>Technical Focus<br>Languages: JavaScript (Node.js), TypeScript, Java<br>UI Automation: Selenium, WebDriverIO, Playwright, Cypress<br>API Testing: REST Assured, Postman, Swagger<br>Testing & Build Tools: JMeter, TestNG, Maven<br>CI/CD & DevOps: Jenkins, GitHub Actions, Docker<br>Cloud Platforms: AWS, Azure, GCP
 
 <br>Current Interests<br>Modern quality engineering practices, API-first testing, Playwright-based automation, AI-driven test generation, and CI/CD optimization.<br>
-<br>Collaboration and Open to:<br><br>Senior QA / SDET roles<br>Automation-focused consulting engagements<br>Open-source QA automation contributions<br>📫 Contact: chandu.birhade@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/chandrakant-birhade/
 
+<br>Collaboration and Open to:<br><br>Senior QA / SDET roles<br>Automation-focused consulting engagements<br>Open-source QA automation contributions<br>📫 Contact: chandu.birhade@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/chandrakant-birhade/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrakant-birhade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandu.birhade@gmail.com) 
