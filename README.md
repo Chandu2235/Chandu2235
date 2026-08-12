@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Chandrakant Vijay Birhade<br>
-QA Automation Engineer | Selenium | Playwright | Java | CI/CD <br>📍 Pune, Maharashtra, India<br><br>
+Director | Business Operations and Enterprise Execution | AI, QE and Enterprise Platforms | Kennen Technologies <br>📍 Pune, Maharashtra, India<br><br>
 
 Results-driven QA Automation Engineer with strong expertise in designing, developing, and maintaining scalable automation frameworks using Java. Proficient in Selenium WebDriver and Playwright for building robust, reusable test scripts and ensuring high-quality software delivery.
 
