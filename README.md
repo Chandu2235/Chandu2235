@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hi, I’m Chandrakant Vijay Birhade<br>
-Director | Business Operations and Enterprise Execution | AI, QE and Enterprise Platforms | Kennen Technologies <br>📍 Pune, Maharashtra, India<br><br>
+Chief Executive Officer and Director | Business Operations and Enterprise Execution | Marketing, AI, QE and Enterprise Platforms | Kennen Technologies Pvt. Ltd. |Business Operations and Enterprise Execution | AI, QE and Enterprise Platforms | Kennen Technologies Pvt.Ltd.<br> 📍 Pune, Maharashtra, India<br><br>
 
 Leading business operations and execution across AI, enterprise platforms, and quality engineering. 
 
@@ -9,7 +9,7 @@ I am responsible for driving business development, client engagement, solution s
 
 With 9+ years of experience in quality engineering and test automation across enterprise applications, I bring expertise across AI/ML systems, LLM evaluation, API automation, cloud platforms, performance, database testing, and CI/CD.    
 
-Focus areas: Business Operations | Enterprise Execution | AI & Digital Transformation | Enterprise Platforms | Quality Engineering | AI/ML & LLM Evaluation | Technology Consulting
+Focus areas: Business Operations | Enterprise Execution | AI and Digital Transformation | Enterprise Platforms | Quality Engineering | AI/ML and LLM Evaluation | Technology Consulting
 
 
 ## 🌐 Socials:
