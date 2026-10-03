@@ -1,20 +1,16 @@
 # 💫 About Me:
+
 Hi, I’m Chandrakant Vijay Birhade<br>
 Director | Business Operations and Enterprise Execution | AI, QE and Enterprise Platforms | Kennen Technologies <br>📍 Pune, Maharashtra, India<br><br>
 
-Results-driven QA Automation Engineer with strong expertise in designing, developing, and maintaining scalable automation frameworks using Java. Proficient in Selenium WebDriver and Playwright for building robust, reusable test scripts and ensuring high-quality software delivery.
+Leading business operations and execution across AI, enterprise platforms, and quality engineering. 
 
-Experienced in collaborating with cross-functional teams to understand requirements, execute automated and manual test cases, and integrate testing into CI/CD pipelines using tools like Jenkins and GitHub Actions. Skilled in cross-browser and cross-platform testing, defect tracking, and improving test coverage, reliability, and execution speed.
+I am responsible for driving business development, client engagement, solution strategy and delivery, strategic partnerships and operational governance, along with execution to convert enterprise requirements into scalable technology solutions and define organisational growth in the areas of AI, enterprise platforms, and quality engineering.
 
-Hands-on experience with TestNG/JUnit, BDD frameworks like Cucumber, and REST API testing using Postman and RestAssured. Strong understanding of version control systems (Git) with excellent debugging and analytical abilities.
+With 9+ years of experience in quality engineering and test automation across enterprise applications, I bring expertise across AI/ML systems, LLM evaluation, API automation, cloud platforms, performance, database testing, and CI/CD.    
 
-Additionally familiar with performance testing tools such as JMeter, containerization using Docker, Agile/Scrum methodologies, and cloud-based testing platforms like BrowserStack and Sauce Labs
+Focus areas: Business Operations | Enterprise Execution | AI & Digital Transformation | Enterprise Platforms | Quality Engineering | AI/ML & LLM Evaluation | Technology Consulting
 
-<br>Technical Focus<br>Languages: JavaScript (Node.js), TypeScript, Java<br>UI Automation: Selenium, WebDriverIO, Playwright, Cypress<br>API Testing: REST Assured, Postman, Swagger<br>Testing & Build Tools: JMeter, TestNG, Maven<br>CI/CD & DevOps: Jenkins, GitHub Actions, Docker<br>Cloud Platforms: AWS, Azure, GCP
-
-<br>Current Interests<br>Modern quality engineering practices, API-first testing, Playwright-based automation, AI-driven test generation, and CI/CD optimization.<br>
-
-<br>Collaboration and Open to:<br><br>Senior QA / SDET roles<br>Automation-focused consulting engagements<br>Open-source QA automation contributions<br>📫 Contact: chandu.birhade@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/chandrakant-birhade/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrakant-birhade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandu.birhade@gmail.com) 
